@@ -15,5 +15,4 @@ A collection of DevOps shell scripts for automation and system management.
 - WSL (Windows Subsystem for Linux)
 
 
-git add README.md
-git commit -m "docs: add README"
+
